@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/support-ukraine/support-ukraine">
-    <img src="https://bit.ly/support-ukraine-badge" alt="Support Ukraine Badge" />
+    <img src="https://bit.ly/support-ukraine-now" alt="Support Ukraine Badge" />
   </a>
 </p>
 
@@ -28,19 +28,19 @@ This repository is an actively maintained consolidation of publicly available in
 Any contribution is welcome. There are a lot of different ways how you can support Ukraine. Choose whatever feels most comfortable to you. Every little bit helps.
 
 ### Badge
-[![Support Ukraine Badge](https://bit.ly/support-ukraine-badge)](https://github.com/support-ukraine/support-ukraine)
+[![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine)
 
 Show your solidarity with Ukrainians and other supporters by adding our badge to your public repositories or GitHub profiles.
 
 #### Markdown
 ```text
-[![Support Ukraine Badge](https://bit.ly/support-ukraine-badge)](https://github.com/support-ukraine/support-ukraine)
+[![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine)
 ```
 
 #### HTML
 ```html
 <a href="https://github.com/support-ukraine/support-ukraine">
-  <img src="https://bit.ly/support-ukraine-badge" alt="Support Ukraine Badge" />
+  <img src="https://bit.ly/support-ukraine-now" alt="Support Ukraine Badge" />
 </a>
 ```
 
