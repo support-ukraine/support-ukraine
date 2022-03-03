@@ -1,5 +1,11 @@
 # Developers Support Ukraine
 
+<p align="center">
+  <a href="https://github.com/support-ukraine/support-ukraine">
+    <img src="https://bit.ly/support-ukraine-badge" alt="Support Ukraine Badge" />
+  </a>
+</p>
+
 [Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War) which started in Feb 2014 and escalated since 8 years on the 24th of Feb, 2022 in form of full invasion, become a top cause in the international main stream nowadays. Ukrainians fight and die to save their democracy, freedom, and sovereignty.
 
 ## Content Summary
@@ -22,18 +28,20 @@ This repository is an actively maintained consolidation of publicly available in
 Any contribution is welcome. There are a lot of different ways how you can support Ukraine. Choose whatever feels most comfortable to you. Every little bit helps.
 
 ### Badge
-(badge image here)
+[![Support Ukraine Badge](https://bit.ly/support-ukraine-badge)](https://github.com/support-ukraine/support-ukraine)
 
-Show your solidarity with Ukrainians and other supporters by including our badge to your public repositories or GitHub profiles.
+Show your solidarity with Ukrainians and other supporters by adding our badge to your public repositories or GitHub profiles.
 
-#### Repository
+#### Markdown
 ```text
-instructions will be here
+[![Support Ukraine Badge](https://bit.ly/support-ukraine-badge)](https://github.com/support-ukraine/support-ukraine)
 ```
 
-#### Profile
-```text
-instructions will be here
+#### HTML
+```html
+<a href="https://github.com/support-ukraine/support-ukraine">
+  <img src="https://bit.ly/support-ukraine-badge" alt="Support Ukraine Badge" />
+</a>
 ```
 
 ### Spread the Word
