@@ -90,3 +90,4 @@ Reach out to your relatives, friends, colleagues, especially Russian and Belorus
 [EU vs Disinfo](https://euvsdisinfo.eu/) – the core objective is to increase public awareness and understanding of the Kremlin’s disinformation operations, and to help citizens in Europe and beyond develop resistance to digital information and media manipulation.
 
 [r/ukraine](https://www.reddit.com/r/ukraine) – Ukrainian Reddit community.
+[they_allowed_you_to_be_killed](https://github.com/iyxanidi1/they_allowed_you_to_be_killed) - names of people who allowed you to be killed in Ukraine
