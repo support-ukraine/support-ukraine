@@ -6,7 +6,7 @@
   </a>
 </p>
 
-[Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War) which started in Feb 2014 and escalated since 8 years on the 24th of Feb, 2022 in form of full invasion, become a top cause in the international main stream nowadays. Ukrainians fight and die to save their democracy, freedom, and sovereignty.
+[Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War) which started in Feb 2014 and escalated since 8 years into a full-scale war against Ukraine on 24th of February,  became a top cause in the international main stream nowadays. The Ukrainians fight and die to save their democracy, freedom, and sovereignty.
 
 ## Content Summary
 - [Why this repo?](#why-this-repo)
@@ -25,7 +25,7 @@ We have a lot of developers on GitHub who might be simply unaware of what is hap
 
 This repository is an actively maintained consolidation of publicly available information which is free to share. Please, feel free to contribute by adding/updating valuable information.
 ## How can you help?
-Any contribution is welcome. There are a lot of different ways how you can support Ukraine. Choose whatever feels most comfortable to you. Every little bit helps.
+If you want to help Ukraine stop the war, there are a lot of different ways how you can support and any contribution is welcome. Choose whatever feels most comfortable to you. Every little bit helps. We do need your support right now!
 
 ### Badge
 [![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine)
@@ -69,6 +69,8 @@ Reach out to your relatives, friends, colleagues, especially Russian and Belorus
 
 [Help Ukraine](https://helpukraine.center/en) – the website helps find out how to provide humanitarian assistance to the people of Ukraine. Ukrainian businessmen have opened a warehouse to which you can send any cargo that will help people.
 
+[NovaPoshta](https://novaposhta.ua/eng) – delivers humanitarian goods across Ukraine, you need to find the closest warehouse to you without naming a specific addressee, later the service will take care of the direction to the organizations.
+
 [Volunteering for Ukrainian Armed Forces (instruction)](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html) – international Legion of Territorial Defense consisting of foreigners who are willing to join the resistance to the Russian invaders and protect global security.
 
 [r/volunteersForUkraine](https://www.reddit.com/r/volunteersForUkraine/new/) – dedicated subreddit to support volunteers who wish to defend Ukraine.
@@ -85,7 +87,11 @@ Reach out to your relatives, friends, colleagues, especially Russian and Belorus
 [Kyiv Independent](https://kyivindependent.com) – The Kyiv Independent is Ukraine’s English-language media outlet, created by journalists who were fired from the Kyiv Post for defending editorial independence.
 
 ### Other
+[RU sanctions monitoring by CORRECTIV](https://correctiv.org/en/latest-stories/2022/03/01/sanctions-tracker-live-monitoring-of-all-sanctions-against-russia/) – Live monitoring of all sanctions against Russia.
+
 [Interactive Map](https://liveuamap.com/en) – Live Universal Awareness Map (“Liveuamap”) is a leading independent global news and information site dedicated to factual reporting of a variety of important topics including conflicts, human rights issues, protests, terrorism, weapons deployment, health matters, natural disasters, and weather related stories, among others, from a vast array of sources.
+
+[Russia-Ukraine Monitor Map](https://maphub.net/Cen4infoRes/russian-ukraine-monitor) – is a crowdsourced effort by Centre for Information Resilience, Bellingcat, Mnemonic, Conflict Intelligence Team and the wider open source community to map, document and verify significant incidents during the war in Ukraine.
 
 [EU vs Disinfo](https://euvsdisinfo.eu/) – the core objective is to increase public awareness and understanding of the Kremlin’s disinformation operations, and to help citizens in Europe and beyond develop resistance to digital information and media manipulation.
 
